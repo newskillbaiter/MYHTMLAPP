@@ -1,11 +1,11 @@
 
 {
-  "id": "/my-html-app/",
+  "id": "/MYHTMLAPP/",
   "name": "Habit & Streak Hub",
   "short_name": "PulseTracker",
   "description": "Track daily habits, streaks, tasks, goals, notes, and progress.",
-  "start_url": "/my-html-app/",
-  "scope": "/my-html-app/",
+  "start_url": "/MYHTMLAPP/",
+  "scope": "/MYHTMLAPP/",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212"
