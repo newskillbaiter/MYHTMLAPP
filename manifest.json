@@ -1,14 +1,13 @@
-
 {
   "id": "/my-html-app/",
-  "name": "My First App",
-  "short_name": "MyApp",
-  "description": "A simple, lightweight personal web application.",
+  "name": "Habit & Streak Hub",
+  "short_name": "PulseTracker",
+  "description": "Track daily habits, streaks, tasks, goals, notes, and progress.",
   "start_url": "/my-html-app/",
   "scope": "/my-html-app/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#121212",
+  "theme_color": "#121212",
   "icons": [
     {
       "src": "icons/icon-192.png",
